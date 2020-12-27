@@ -1,4 +1,4 @@
-# Project 1 - *Simple Todo_JT*
+# Project 1 - *Simple Todo App*
 
 **Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -26,13 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Simple_ToDo_app.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Peek](https://github.com/phw/peek).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I encountered many issues getting the AVD working initially.
+I also had trouble with using current import libraries.
 
 ## License
 

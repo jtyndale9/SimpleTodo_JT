@@ -31,9 +31,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [Peek](https://github.com/phw/peek).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 I encountered many issues getting the AVD working initially.
+
 I also had trouble with using current import libraries.
 
 ## License
